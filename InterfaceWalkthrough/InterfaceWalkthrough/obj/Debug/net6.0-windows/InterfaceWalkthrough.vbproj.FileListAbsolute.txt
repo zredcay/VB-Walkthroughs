@@ -1,0 +1,17 @@
+C:\Users\ZRedcay\source\repos\InterfaceWalkthrough\InterfaceWalkthrough\bin\Debug\net6.0-windows\InterfaceWalkthrough.exe
+C:\Users\ZRedcay\source\repos\InterfaceWalkthrough\InterfaceWalkthrough\bin\Debug\net6.0-windows\InterfaceWalkthrough.deps.json
+C:\Users\ZRedcay\source\repos\InterfaceWalkthrough\InterfaceWalkthrough\bin\Debug\net6.0-windows\InterfaceWalkthrough.runtimeconfig.json
+C:\Users\ZRedcay\source\repos\InterfaceWalkthrough\InterfaceWalkthrough\bin\Debug\net6.0-windows\InterfaceWalkthrough.dll
+C:\Users\ZRedcay\source\repos\InterfaceWalkthrough\InterfaceWalkthrough\bin\Debug\net6.0-windows\InterfaceWalkthrough.pdb
+C:\Users\ZRedcay\source\repos\InterfaceWalkthrough\InterfaceWalkthrough\obj\Debug\net6.0-windows\InterfaceWalkthrough.vbproj.AssemblyReference.cache
+C:\Users\ZRedcay\source\repos\InterfaceWalkthrough\InterfaceWalkthrough\obj\Debug\net6.0-windows\InterfaceWalkthrough.Form1.resources
+C:\Users\ZRedcay\source\repos\InterfaceWalkthrough\InterfaceWalkthrough\obj\Debug\net6.0-windows\InterfaceWalkthrough.vbproj.GenerateResource.cache
+C:\Users\ZRedcay\source\repos\InterfaceWalkthrough\InterfaceWalkthrough\obj\Debug\net6.0-windows\InterfaceWalkthrough.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZRedcay\source\repos\InterfaceWalkthrough\InterfaceWalkthrough\obj\Debug\net6.0-windows\InterfaceWalkthrough.AssemblyInfoInputs.cache
+C:\Users\ZRedcay\source\repos\InterfaceWalkthrough\InterfaceWalkthrough\obj\Debug\net6.0-windows\InterfaceWalkthrough.AssemblyInfo.vb
+C:\Users\ZRedcay\source\repos\InterfaceWalkthrough\InterfaceWalkthrough\obj\Debug\net6.0-windows\InterfaceWalkthrough.vbproj.CoreCompileInputs.cache
+C:\Users\ZRedcay\source\repos\InterfaceWalkthrough\InterfaceWalkthrough\obj\Debug\net6.0-windows\InterfaceWalkthrough.dll
+C:\Users\ZRedcay\source\repos\InterfaceWalkthrough\InterfaceWalkthrough\obj\Debug\net6.0-windows\refint\InterfaceWalkthrough.dll
+C:\Users\ZRedcay\source\repos\InterfaceWalkthrough\InterfaceWalkthrough\obj\Debug\net6.0-windows\InterfaceWalkthrough.pdb
+C:\Users\ZRedcay\source\repos\InterfaceWalkthrough\InterfaceWalkthrough\obj\Debug\net6.0-windows\InterfaceWalkthrough.genruntimeconfig.cache
+C:\Users\ZRedcay\source\repos\InterfaceWalkthrough\InterfaceWalkthrough\obj\Debug\net6.0-windows\ref\InterfaceWalkthrough.dll
