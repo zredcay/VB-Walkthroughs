@@ -1,0 +1,12 @@
+C:\Users\ZRedcay\source\repos\AppLogger\AppLogger\bin\Release\net6.0\AppLogger.deps.json
+C:\Users\ZRedcay\source\repos\AppLogger\AppLogger\bin\Release\net6.0\AppLogger.dll
+C:\Users\ZRedcay\source\repos\AppLogger\AppLogger\bin\Release\net6.0\AppLogger.pdb
+C:\Users\ZRedcay\source\repos\AppLogger\AppLogger\obj\Release\net6.0\AppLogger.csproj.AssemblyReference.cache
+C:\Users\ZRedcay\source\repos\AppLogger\AppLogger\obj\Release\net6.0\AppLogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZRedcay\source\repos\AppLogger\AppLogger\obj\Release\net6.0\AppLogger.AssemblyInfoInputs.cache
+C:\Users\ZRedcay\source\repos\AppLogger\AppLogger\obj\Release\net6.0\AppLogger.AssemblyInfo.cs
+C:\Users\ZRedcay\source\repos\AppLogger\AppLogger\obj\Release\net6.0\AppLogger.csproj.CoreCompileInputs.cache
+C:\Users\ZRedcay\source\repos\AppLogger\AppLogger\obj\Release\net6.0\AppLogger.dll
+C:\Users\ZRedcay\source\repos\AppLogger\AppLogger\obj\Release\net6.0\refint\AppLogger.dll
+C:\Users\ZRedcay\source\repos\AppLogger\AppLogger\obj\Release\net6.0\AppLogger.pdb
+C:\Users\ZRedcay\source\repos\AppLogger\AppLogger\obj\Release\net6.0\ref\AppLogger.dll
