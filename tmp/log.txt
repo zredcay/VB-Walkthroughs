@@ -1,0 +1,12 @@
+﻿Logged: 11/2/2022 1:26:39 PM
+File: C:\tmp\Test.txt
+Modified: 11/2/2022 9:04:56 AM
+Size: 0 bytes
+
+
+Logged: 11/2/2022 1:26:50 PM
+File: C:\tmp\log.txt
+Modified: 11/2/2022 1:26:39 PM
+Size: 107 bytes
+First Line: Logged: 11/2/2022 1:26:39 PM
+
