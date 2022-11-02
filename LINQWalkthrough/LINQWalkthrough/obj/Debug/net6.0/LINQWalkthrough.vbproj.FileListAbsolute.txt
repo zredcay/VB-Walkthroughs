@@ -1,0 +1,15 @@
+C:\Users\ZRedcay\source\repos\LINQWalkthrough\LINQWalkthrough\bin\Debug\net6.0\LINQWalkthrough.exe
+C:\Users\ZRedcay\source\repos\LINQWalkthrough\LINQWalkthrough\bin\Debug\net6.0\LINQWalkthrough.deps.json
+C:\Users\ZRedcay\source\repos\LINQWalkthrough\LINQWalkthrough\bin\Debug\net6.0\LINQWalkthrough.runtimeconfig.json
+C:\Users\ZRedcay\source\repos\LINQWalkthrough\LINQWalkthrough\bin\Debug\net6.0\LINQWalkthrough.dll
+C:\Users\ZRedcay\source\repos\LINQWalkthrough\LINQWalkthrough\bin\Debug\net6.0\LINQWalkthrough.pdb
+C:\Users\ZRedcay\source\repos\LINQWalkthrough\LINQWalkthrough\obj\Debug\net6.0\LINQWalkthrough.vbproj.AssemblyReference.cache
+C:\Users\ZRedcay\source\repos\LINQWalkthrough\LINQWalkthrough\obj\Debug\net6.0\LINQWalkthrough.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZRedcay\source\repos\LINQWalkthrough\LINQWalkthrough\obj\Debug\net6.0\LINQWalkthrough.AssemblyInfoInputs.cache
+C:\Users\ZRedcay\source\repos\LINQWalkthrough\LINQWalkthrough\obj\Debug\net6.0\LINQWalkthrough.AssemblyInfo.vb
+C:\Users\ZRedcay\source\repos\LINQWalkthrough\LINQWalkthrough\obj\Debug\net6.0\LINQWalkthrough.vbproj.CoreCompileInputs.cache
+C:\Users\ZRedcay\source\repos\LINQWalkthrough\LINQWalkthrough\obj\Debug\net6.0\LINQWalkthrough.dll
+C:\Users\ZRedcay\source\repos\LINQWalkthrough\LINQWalkthrough\obj\Debug\net6.0\refint\LINQWalkthrough.dll
+C:\Users\ZRedcay\source\repos\LINQWalkthrough\LINQWalkthrough\obj\Debug\net6.0\LINQWalkthrough.pdb
+C:\Users\ZRedcay\source\repos\LINQWalkthrough\LINQWalkthrough\obj\Debug\net6.0\LINQWalkthrough.genruntimeconfig.cache
+C:\Users\ZRedcay\source\repos\LINQWalkthrough\LINQWalkthrough\obj\Debug\net6.0\ref\LINQWalkthrough.dll
