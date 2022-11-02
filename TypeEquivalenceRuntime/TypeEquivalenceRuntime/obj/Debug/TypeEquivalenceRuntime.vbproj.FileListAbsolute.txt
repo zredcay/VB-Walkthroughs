@@ -1,0 +1,14 @@
+C:\Users\ZRedcay\source\repos\TypeEquivalenceInterface\TypeEquivalenceInterface\bin\Debug\TypeEquivalenceRuntime.dll
+C:\Users\ZRedcay\source\repos\TypeEquivalenceInterface\TypeEquivalenceInterface\bin\Debug\TypeEquivalenceRuntime.pdb
+C:\Users\ZRedcay\source\repos\TypeEquivalenceInterface\TypeEquivalenceInterface\bin\Debug\TypeEquivalenceRuntime.xml
+C:\Users\ZRedcay\source\repos\TypeEquivalenceRuntime\TypeEquivalenceRuntime\obj\Debug\TypeEquivalenceRuntime.vbproj.AssemblyReference.cache
+C:\Users\ZRedcay\source\repos\TypeEquivalenceRuntime\TypeEquivalenceRuntime\obj\Debug\TypeEquivalenceRuntime.Resources.resources
+C:\Users\ZRedcay\source\repos\TypeEquivalenceRuntime\TypeEquivalenceRuntime\obj\Debug\TypeEquivalenceRuntime.vbproj.GenerateResource.cache
+C:\Users\ZRedcay\source\repos\TypeEquivalenceRuntime\TypeEquivalenceRuntime\obj\Debug\TypeEquivalenceRuntime.vbproj.CoreCompileInputs.cache
+C:\Users\ZRedcay\source\repos\TypeEquivalenceRuntime\TypeEquivalenceRuntime\obj\Debug\TypeEquivalenceRuntime.vbproj.CopyComplete
+C:\Users\ZRedcay\source\repos\TypeEquivalenceRuntime\TypeEquivalenceRuntime\obj\Debug\TypeEquivalenceRuntime.dll
+C:\Users\ZRedcay\source\repos\TypeEquivalenceRuntime\TypeEquivalenceRuntime\obj\Debug\TypeEquivalenceRuntime.xml
+C:\Users\ZRedcay\source\repos\TypeEquivalenceRuntime\TypeEquivalenceRuntime\obj\Debug\TypeEquivalenceRuntime.pdb
+C:\TypeEquivalenceBuild\TypeEquivalenceRuntime.dll
+C:\TypeEquivalenceBuild\TypeEquivalenceRuntime.pdb
+C:\TypeEquivalenceBuild\TypeEquivalenceRuntime.xml
