@@ -1,0 +1,12 @@
+C:\Users\ZRedcay\source\repos\LoanClass\LoanClass\bin\Debug\net6.0\LoanClass.deps.json
+C:\Users\ZRedcay\source\repos\LoanClass\LoanClass\bin\Debug\net6.0\LoanClass.dll
+C:\Users\ZRedcay\source\repos\LoanClass\LoanClass\bin\Debug\net6.0\LoanClass.pdb
+C:\Users\ZRedcay\source\repos\LoanClass\LoanClass\obj\Debug\net6.0\LoanClass.vbproj.AssemblyReference.cache
+C:\Users\ZRedcay\source\repos\LoanClass\LoanClass\obj\Debug\net6.0\LoanClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZRedcay\source\repos\LoanClass\LoanClass\obj\Debug\net6.0\LoanClass.AssemblyInfoInputs.cache
+C:\Users\ZRedcay\source\repos\LoanClass\LoanClass\obj\Debug\net6.0\LoanClass.AssemblyInfo.vb
+C:\Users\ZRedcay\source\repos\LoanClass\LoanClass\obj\Debug\net6.0\LoanClass.vbproj.CoreCompileInputs.cache
+C:\Users\ZRedcay\source\repos\LoanClass\LoanClass\obj\Debug\net6.0\LoanClass.dll
+C:\Users\ZRedcay\source\repos\LoanClass\LoanClass\obj\Debug\net6.0\refint\LoanClass.dll
+C:\Users\ZRedcay\source\repos\LoanClass\LoanClass\obj\Debug\net6.0\LoanClass.pdb
+C:\Users\ZRedcay\source\repos\LoanClass\LoanClass\obj\Debug\net6.0\ref\LoanClass.dll
