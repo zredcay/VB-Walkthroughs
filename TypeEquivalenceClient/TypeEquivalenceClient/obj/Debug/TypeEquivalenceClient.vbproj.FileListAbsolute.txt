@@ -1,0 +1,12 @@
+C:\Users\ZRedcay\source\repos\TypeEquivalenceClient\TypeEquivalenceClient\obj\Debug\TypeEquivalenceClient.vbproj.AssemblyReference.cache
+C:\Users\ZRedcay\source\repos\TypeEquivalenceClient\TypeEquivalenceClient\obj\Debug\TypeEquivalenceClient.vbproj.SuggestedBindingRedirects.cache
+C:\Users\ZRedcay\source\repos\TypeEquivalenceClient\TypeEquivalenceClient\obj\Debug\TypeEquivalenceClient.Resources.resources
+C:\Users\ZRedcay\source\repos\TypeEquivalenceClient\TypeEquivalenceClient\obj\Debug\TypeEquivalenceClient.vbproj.GenerateResource.cache
+C:\Users\ZRedcay\source\repos\TypeEquivalenceClient\TypeEquivalenceClient\obj\Debug\TypeEquivalenceClient.vbproj.CoreCompileInputs.cache
+C:\TypeEquivalenceBuild\TypeEquivalenceClient.exe.config
+C:\TypeEquivalenceBuild\TypeEquivalenceClient.exe
+C:\TypeEquivalenceBuild\TypeEquivalenceClient.pdb
+C:\TypeEquivalenceBuild\TypeEquivalenceClient.xml
+C:\Users\ZRedcay\source\repos\TypeEquivalenceClient\TypeEquivalenceClient\obj\Debug\TypeEquivalenceClient.exe
+C:\Users\ZRedcay\source\repos\TypeEquivalenceClient\TypeEquivalenceClient\obj\Debug\TypeEquivalenceClient.xml
+C:\Users\ZRedcay\source\repos\TypeEquivalenceClient\TypeEquivalenceClient\obj\Debug\TypeEquivalenceClient.pdb
