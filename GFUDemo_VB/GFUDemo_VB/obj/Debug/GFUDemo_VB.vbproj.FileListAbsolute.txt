@@ -1,0 +1,10 @@
+C:\Users\ZRedcay\source\repos\GFUDemo_VB\GFUDemo_VB\bin\Debug\GFUDemo_VB.dll
+C:\Users\ZRedcay\source\repos\GFUDemo_VB\GFUDemo_VB\bin\Debug\GFUDemo_VB.pdb
+C:\Users\ZRedcay\source\repos\GFUDemo_VB\GFUDemo_VB\bin\Debug\GFUDemo_VB.xml
+C:\Users\ZRedcay\source\repos\GFUDemo_VB\GFUDemo_VB\obj\Debug\GFUDemo_VB.vbproj.AssemblyReference.cache
+C:\Users\ZRedcay\source\repos\GFUDemo_VB\GFUDemo_VB\obj\Debug\GFUDemo_VB.Resources.resources
+C:\Users\ZRedcay\source\repos\GFUDemo_VB\GFUDemo_VB\obj\Debug\GFUDemo_VB.vbproj.GenerateResource.cache
+C:\Users\ZRedcay\source\repos\GFUDemo_VB\GFUDemo_VB\obj\Debug\GFUDemo_VB.vbproj.CoreCompileInputs.cache
+C:\Users\ZRedcay\source\repos\GFUDemo_VB\GFUDemo_VB\obj\Debug\GFUDemo_VB.dll
+C:\Users\ZRedcay\source\repos\GFUDemo_VB\GFUDemo_VB\obj\Debug\GFUDemo_VB.xml
+C:\Users\ZRedcay\source\repos\GFUDemo_VB\GFUDemo_VB\obj\Debug\GFUDemo_VB.pdb
